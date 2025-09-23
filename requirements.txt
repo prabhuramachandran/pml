@@ -30,3 +30,6 @@ imageio
 scipy
 pandas
 scikit-learn
+
+plotly[express]>=6,<7
+seaborn
