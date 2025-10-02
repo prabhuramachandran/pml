@@ -31,5 +31,6 @@ scipy
 pandas
 scikit-learn
 statsmodels
+anywidget
 plotly[express]>=6,<7
 seaborn
